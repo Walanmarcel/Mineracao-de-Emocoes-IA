@@ -19,7 +19,7 @@ B. Instalação do conjunto de ferramentas NLTK utilizado no projeto no MacOS: <
 	
 ---------
 	
-C. Instruções para execução do código <br />
+C. Instruções para execução do código: <br />
 	1- Abra o arquivo “Mineração de Emoções.ipynb” utilizando a interface Jupyter do Anaconda-Navigator <br />
 	2- Certifique-se de que o arquivo “Mineração de Emoções.ipynb” e as bases de dados estão na mesma pasta <br />
 	3- Execute “Run all” <br />
